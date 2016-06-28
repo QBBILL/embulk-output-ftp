@@ -1,7 +1,9 @@
 # Ftp output plugin for Embulk
 #test not add
 TODO: Write short description here and build.gradle file.
-#master
+
+#masterfeature
+
 ## Overview
 
 * **Plugin type**: output
