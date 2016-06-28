@@ -9,6 +9,7 @@ TODO: Write short description here and build.gradle file.
 * **Resume supported**: no
 * **Cleanup supported**: yes
 
+
 ## Configuration
 
 - **option1**: description (integer, required)
