@@ -1,5 +1,4 @@
 # Ftp output plugin for Embulk
-#test not add dec bug
 TODO: Write short description here and build.gradle file.
 
 #masterfeature
